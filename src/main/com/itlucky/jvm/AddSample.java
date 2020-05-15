@@ -1,4 +1,4 @@
-package main.java.com.j.jvm;
+package main.com.itlucky.jvm;
 
 /**
  * @Author: itlucky
