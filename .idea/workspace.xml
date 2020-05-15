@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="64fa767b-6abe-480d-812e-b6bfc975cdc2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1btrbpcLXObwaQB5XYgFpirNChK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+  </component>
+  <component name="RunManager" selected="Application.CpuReOrder (1)">
+    <configuration name="CpuReOrder (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.com.j.jvm.CpuReOrder" />
+      <module name="javaproject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.java.com.j.jvm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CpuReOrder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java.main.com.j.jvm.CpuReOrder" />
+      <module name="javaproject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java.main.com.j.jvm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CpuReOrder" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="main.com.j.jvm.CpuReOrder" />
+      <module name="javaproject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.com.j.jvm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.CpuReOrder" />
+      <item itemvalue="Application.CpuReOrder (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CpuReOrder (1)" />
+        <item itemvalue="Application.CpuReOrder" />
+        <item itemvalue="Application.CpuReOrder" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="64fa767b-6abe-480d-812e-b6bfc975cdc2" name="Default Changelist" comment="" />
+      <created>1589462305770</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589462305770</updated>
+      <workItem from="1589462309943" duration="1275000" />
+      <workItem from="1589464270902" duration="1554000" />
+      <workItem from="1589524984482" duration="1355000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="220" y="34" key="#Project_Structure" timestamp="1589462515789">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="220" y="34" key="#Project_Structure/0.0.1440.900@0.0.1440.900" timestamp="1589462515789" />
+    <state x="184" y="107" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589464870503">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="184" y="107" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1589464870503" />
+    <state width="1390" height="350" key="GridCell.Tab.0.bottom" timestamp="1589471340435">
+      <screen x="0" y="23" width="1440" height="815" />
+    </state>
+    <state width="1390" height="350" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1589467631011" />
+    <state width="1390" height="350" key="GridCell.Tab.0.bottom/0.23.1440.815@0.23.1440.815" timestamp="1589471340435" />
+    <state width="1390" height="350" key="GridCell.Tab.0.center" timestamp="1589471340430">
+      <screen x="0" y="23" width="1440" height="815" />
+    </state>
+    <state width="1390" height="350" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1589467631009" />
+    <state width="1390" height="350" key="GridCell.Tab.0.center/0.23.1440.815@0.23.1440.815" timestamp="1589471340430" />
+    <state width="1390" height="350" key="GridCell.Tab.0.left" timestamp="1589471340429">
+      <screen x="0" y="23" width="1440" height="815" />
+    </state>
+    <state width="1390" height="350" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1589467631007" />
+    <state width="1390" height="350" key="GridCell.Tab.0.left/0.23.1440.815@0.23.1440.815" timestamp="1589471340429" />
+    <state width="1390" height="350" key="GridCell.Tab.0.right" timestamp="1589471340433">
+      <screen x="0" y="23" width="1440" height="815" />
+    </state>
+    <state width="1390" height="350" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1589467631010" />
+    <state width="1390" height="350" key="GridCell.Tab.0.right/0.23.1440.815@0.23.1440.815" timestamp="1589471340433" />
+    <state x="172" y="0" width="1214" height="815" key="SettingsEditor" timestamp="1589464759049">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="172" y="0" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1589464759049" />
+    <state x="172" y="23" width="1214" height="815" key="SettingsEditor/0.23.1440.815@0.23.1440.815" timestamp="1589463767455" />
+  </component>
+</project>
