@@ -3,7 +3,7 @@ package main.com.itlucky.jvm;
 /**
  * @Author: itlucky
  * @Date: 2020/5/15 3:17 下午
- * @Description: 并发编程
+ * @Description: 并发编程  需要debug执行查看结果，run执行没有结果，不知道为何？
  * @Version: V1.0
  **/
 public class AddSample {
