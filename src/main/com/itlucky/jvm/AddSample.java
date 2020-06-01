@@ -34,7 +34,7 @@ public class AddSample {
             }).start();
         }
 //        System.out.println(Thread.activeCount());
-        while (Thread.activeCount() > 1) {  //让启动的100个线程都结束，线程保证策略
+        while (Thread.activeCount() > 1) {  //让启动的100个线程都结束，线程执行保证策略
             Thread.yield();  //线程交出cpu执行权
         }
 //        System.out.println(Thread.activeCount());
