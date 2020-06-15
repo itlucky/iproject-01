@@ -3,7 +3,9 @@ package main.com.itlucky.jvm;
 /**
  * @Author: itlucky
  * @Date: 2020/5/14 9:33 下午
- * @Description: 指令重排
+ * @Description: 指令重排 -->>> 编译器和处理器为了提高并行度。
+ *
+ *
  *          如果是多线程执行，这里出现的最终结果是i=0。
  *          下面程序其实还是单线程执行的。
  *
