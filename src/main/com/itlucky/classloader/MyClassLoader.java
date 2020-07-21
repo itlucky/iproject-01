@@ -1,4 +1,4 @@
-package main.com.itlucky.jvm.classLoader;
+package main.com.itlucky.classloader;
 
 import java.io.*;
 
@@ -68,7 +68,7 @@ public class MyClassLoader extends ClassLoader{
             //这里执行的结果是MyClassLoader，这个是项目之外的一个class，通过双亲委派模型没有找到父类对应的classLoader,所以就用了这里自定义的MyClassLoader.
 //            testClass = classLoader.loadClass("com.itlucky.ConsumerApplication");
             //这里执行的结果是AppClassLoader, 是当前项目下就有的，双亲委派模型。也证实了这里的MyClassLoader的父类就是AppClassLoader。
-            testClass = classLoader.loadClass("main.com.itlucky.jvm.classLoader.FatherSonClassTest");
+            testClass = classLoader.loadClass("main.com.itlucky.classloader.FatherSonClassTest");
             Object obj = testClass.newInstance();
             System.out.println(obj.getClass().getClassLoader());
         } catch (ClassNotFoundException r){

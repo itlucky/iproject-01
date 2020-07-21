@@ -1,4 +1,4 @@
-package main.com.itlucky.jvm.classLoader;
+package main.com.itlucky.classloader;
 
 /**
  * 类到了初始化阶段，用户定义的Java程序代码才真正开始执行。
